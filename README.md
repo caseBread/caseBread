@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgu0515)](https://solved.ac/kgu0515/)
-![kgu0515's github stats](https://github-readme-stats.vercel.app/api?username=kgu0515&show_icons=true)
-
