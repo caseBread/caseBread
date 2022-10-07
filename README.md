@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
+Stack
+
+<a target="_blank"><img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseBread&show_icons=true&theme=radical)
 
