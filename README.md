@@ -2,7 +2,7 @@
 
 <br/>
 
-<div align="center">Hello, I'm Kim Geonu.</br>I major in computer engineering and am currently developing the front end.</div>
+<div align="center">Hello, I'm Kim Geonu.</br>I major in computer engineering and am currently studying Frontend Development.</div>
 
 <br/>
 
