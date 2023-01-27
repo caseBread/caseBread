@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Geonu's%20Github&fontSize=90)
 
-<div align="center">Hello, I'm Kim Gunwoo.</br>I major in computer engineering and am currently developing the front end.</br></div>
+<br/>
+
+<div align="center">Hello, I'm Kim Gunwoo.</br>I major in computer engineering and am currently developing the front end.</div>
+
+<br/>
 
 
 
