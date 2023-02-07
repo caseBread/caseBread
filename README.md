@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Geonu's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Geonu's%20Github&fontSize=90)
 
 <br/>
 
-<div align="center">Hello, I'm Kim Geonu.</br>I major in computer engineering and am currently studying Web Frontend Development.</div>
+<div align="center">🙋‍♂️ Hello! I'm Kim Geonu.</br>I major in computer engineering and am studying Web Frontend Development and currently interested in Next.js</div>
 
 <br/>
 
