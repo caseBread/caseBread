@@ -4,9 +4,8 @@
 
 <br/>
 
-🙋‍♂️ Welcome to my GitHub! My name is Kim Geonu </br> I major in computer engineering and am studying Web Frontend Development
-
-<br/>
+🙋‍♂️ Welcome to my GitHub! I'm Geonu Kim, a computer engineering graduate with a passion for web front-end development. </br> </br> I am current working as a front-end developer at Cashwalk Inc. </br> where I continue to enhance my skills in creating engaging and user-friendly web interfaces. 
+</br>
 
 📚 <b>Tech Stack</b>
 
