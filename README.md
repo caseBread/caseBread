@@ -1,6 +1,5 @@
 ### Welcome to my Github! I'm Geonu Kim 👋
 
-#### Web Front-end Developer
 
 I am a student majoring in Computer Engineering at Kyung Hee University </br>
 Currently, I am working as a front-end developer at Cashwalk Inc.
