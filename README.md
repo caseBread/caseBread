@@ -4,7 +4,7 @@
 
 <br/>
 
-🙋‍♂️ Welcome to my GitHub! I'm Geonu Kim, a computer engineering graduate with a passion for web front-end development. </br> </br> I am current working as a front-end developer at Cashwalk Inc. </br> where I continue to enhance my skills in creating engaging and user-friendly web interfaces. 
+🙋‍♂️ Welcome to my GitHub! I'm Geonu Kim, </br> I am a student majoring in Computer Engineering at Kyung Hee University </br> </br> I am current working as a front-end developer at Cashwalk Inc. </br> where I continue to enhance my skills in creating engaging and user-friendly web interfaces. 
 </br>
 
 📚 <b>Tech Stack</b>
