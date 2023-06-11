@@ -1,7 +1,7 @@
 ### 👋 Welcome to my Github !  I'm Geonu Kim
 
 
-I am a student majoring in Computer Engineering at Kyung Hee University. </br>
+I am a student majoring in [Computer Engineering at Kyung Hee University](https://ce.khu.ac.kr/ce/user/main/view.do). </br>
 Currently, I am working as a front-end developer at [@Cashwalk](https://github.com/cashwalk) Inc.</br>
 I believe that good design, combined with efficient functionality, can greatly enhance the user experience !
 
