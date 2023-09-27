@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Kyung Hee University, Computer Engineering (2021.09~)
-- Nudge Healthcare, Inc, Web Frontend Developer (2023.03~)
+- [Kyung Hee University, Computer Engineering](https://ce.khu.ac.kr/ce/user/main/view.do) (2021.09~)
+- [Nudge Healthcare, Inc, Web Frontend Developer](https://github.com/cashwalk) (2023.03~)
 
 </br>
 
@@ -16,7 +16,7 @@
 
 ##  Preferences
 
-- Teo's 11th Sprint : SimpleThumbnail
+- Teo's 11th Sprint : [simple-thumbnail](https://github.com/Yangjaecheon-Otter-Guardians/simple-thumbnail)
 - NAVER Connect Foundation, Boostcamp 7th Fullstack, Membership Cource
 - NAVER Connect Foundation, Boostcamp 7th, Challenge Cource
 - Kyung Hee University, 봄 프로그래밍 경시대회, 입상 (2022)
