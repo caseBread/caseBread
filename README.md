@@ -2,8 +2,9 @@
 
 ## Profile
 
+- [Nudge Healthcare, Inc, Web Frontend Developer](https://github.com/cashwalk) (2023.03~2025.06)
 - [Kyung Hee University, Computer Engineering](https://ce.khu.ac.kr/ce/user/main/view.do) (2021.09~)
-- [Nudge Healthcare, Inc, Web Frontend Developer](https://github.com/cashwalk) (2023.03~)
+
 
 </br>
 
@@ -16,6 +17,8 @@
 
 ##  Preferences
 
+- DND 13th (2025.07~)
+- DND Hackathon (2025.05)
 - Teo's 11th Sprint : [simple-thumbnail](https://github.com/Yangjaecheon-Otter-Guardians/simple-thumbnail)
 - NAVER Connect Foundation, Boostcamp 7th Fullstack, Membership Cource
 - NAVER Connect Foundation, Boostcamp 7th, Challenge Cource
