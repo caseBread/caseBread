@@ -17,6 +17,7 @@
 
 ##  Preferences
 
+- DND 13th (2025.06~)
 - DND Hackathon (2025.05)
 - Teo's 11th Sprint : [simple-thumbnail](https://github.com/Yangjaecheon-Otter-Guardians/simple-thumbnail)
 - NAVER Connect Foundation, Boostcamp 7th Fullstack, Membership Cource
