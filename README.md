@@ -18,7 +18,7 @@
 ##  Preferences
 
 - [DND](https://dnd.ac/) 13th (2025.06~)
-- [DND](https://dnd.ac/) Hackathon (2025.05)
+- [DND](https://dnd.ac/) Hackathon 2rd (2025.05)
 - Teo's 11th Sprint : [simple-thumbnail](https://github.com/Yangjaecheon-Otter-Guardians/simple-thumbnail)
 - NAVER Connect Foundation, Boostcamp 7th Fullstack, Membership Cource
 - NAVER Connect Foundation, Boostcamp 7th, Challenge Cource
