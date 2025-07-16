@@ -17,6 +17,7 @@
 
 ##  Preferences
 
+- [AUSG](https://ausg.me/) 9th (2025.07~)
 - [DND](https://dnd.ac/) 13th (2025.06~)
 - [DND](https://dnd.ac/) Hackathon 2nd (2025.05)
 - Teo's 11th Sprint : [simple-thumbnail](https://github.com/Yangjaecheon-Otter-Guardians/simple-thumbnail)
