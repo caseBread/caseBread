@@ -17,6 +17,7 @@
 
 ##  Preferences
 
+- [KUSITHMS(한국대학생IT경영학회)](https://www.kusitms.com/) 32nd (2025.08~)
 - [AUSG](https://ausg.me/) 9th (2025.07~)
 - [DND](https://dnd.ac/) 13th (2025.06~2025.08)
 - [DND](https://dnd.ac/) Hackathon 2nd (2025.05)
